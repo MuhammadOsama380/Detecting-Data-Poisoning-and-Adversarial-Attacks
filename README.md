@@ -1,6 +1,6 @@
 # Detecting Data Poisoning and Adversarial Attacks in CNN-Based Image Classifiers
 
-**Authors:** Muhammad Osama, Shah Fahad, Zaid Khan  
+**Authors:** Muhammad Osama 
 **Course:** INFO-6149 – Machine Learning Security  
 **Institution:** Fanshawe College  
 **Submission:** July 2025  
